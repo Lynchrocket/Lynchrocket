@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lynchrocket
 - 👀 I’m interested in animation.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
