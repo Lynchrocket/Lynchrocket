@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lynchrocket
 - 👀 I’m interested in animation.
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me ...
+- 📫 You can contact me with Lynchrocket@gmail.com
 
 <!---
 Lynchrocket/Lynchrocket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
