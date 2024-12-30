@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Lynchrocket
-- 👀 I’m interested in animation.
-- 🌱 I’m currently learning computer science
-- 📫 You can contact me with Lynchrocket@gmail.com
+# 👋 About Me:
+Hi, I’m @Lynchrocket, a Master student in computer science.
 
-<!---
-Lynchrocket/Lynchrocket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in animation and TCS. Welcome to my [Blog](https://lynchrocket.github.io).
+
+## 🎓 Education:
+- 2020/09 - 2024/06: B.E. in Computer Science and Technology, College of Engineering, Southern University of Science and Technology (SUSTech), China.
+- 2024/09 - Present: Master in Computer Science, Université Paris-Saclay, France.
 
 ## 🥇 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchrocket&layout=compact&theme=buefy)  
@@ -17,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 ## 💻 Activity Graph
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lynchrocket&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📫 Contact
+
+- Email: [Lynchrocket@gmail.com](mailto:Lynchrocket@gmail.com)
