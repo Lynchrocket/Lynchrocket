@@ -4,7 +4,7 @@ Hi, I’m @Lynchrocket, a Master student in computer science.
 I’m interested in animation and TCS. Welcome to my [Blog](https://lynchrocket.github.io).
 
 ## 🎓 Education:
-- 2020/09 - 2024/06: B.E. in Computer Science and Technology, College of Engineering, Southern University of Science and Technology (SUSTech), China.
+- 2020/09 - 2024/06: B.E. in Computer Science and Technology, Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), China.
 - 2024/09 - Present: Master in Computer Science, Université Paris-Saclay, France.
 
 ## 🥇 Top Langs
