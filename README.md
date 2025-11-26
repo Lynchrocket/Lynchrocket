@@ -4,8 +4,9 @@ Hi, I’m @Lynchrocket, a Master student in computer science.
 I’m interested in animation and TCS. Welcome to my [Blog](https://lynchrocket.github.io).
 
 ## 🎓 Education:
+- 2025/09 - Present: Master in Computer Science, Master year 2, Institut Polytechnique de Paris, France.
+- 2024/09 - 2025/08: Master in Computer Science, Master year 1, Université Paris-Saclay, France.
 - 2020/09 - 2024/06: B.E. in Computer Science and Technology, Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), China.
-- 2024/09 - Present: Master in Computer Science, Université Paris-Saclay, France.
 
 ## 🥇 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchrocket&layout=compact&theme=buefy)  
